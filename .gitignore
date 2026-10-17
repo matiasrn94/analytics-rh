@@ -1,0 +1,5 @@
+# Esta lista começa recusando tudo. Cada arquivo entra pelo nome, numa linha "!caminho".
+# Para um arquivo dentro de pasta: "!pasta/", depois "pasta/*", depois "!pasta/arquivo".
+*
+!.gitignore
+!README.md
