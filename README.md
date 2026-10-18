@@ -66,4 +66,4 @@ Python · Pandas · Streamlit · Plotly · Parquet · pytest · Git
 
 ## Sobre mim
 
-Trabalho com entrega de serviço de TI: chamados, SLA e prioridades de um contrato de sustentação. Minha trajetória está no [LinkedIn](https://www.linkedin.com/in/jose-matias-da-rocha-neto-368ab13aa).
+Trabalho com entrega de serviço de TI: chamados, SLA e prioridades de um contrato de sustentação. Minha trajetória está no [LinkedIn](https://www.linkedin.com/in/jose-matias-neto).
